@@ -2,15 +2,10 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: black;
     box-sizing: border-box;
-    
 }
 
 .container {
-    
-}
-
-section {
-    
+    text-align: center;
 }
 
 h1,
@@ -36,4 +31,8 @@ p {
 a {
     font-size: 16px;
     color: aquamarine;
+}
+
+.logo {
+    text-align: right;
 }
